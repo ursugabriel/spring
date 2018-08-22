@@ -1,0 +1,12 @@
+2018-08-22 20:49:23.795 [main] INFO  com.cgm.internship.springDemo.service.PantsServiceImpl - Setter injection used.
+2018-08-22 20:49:23.898 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:49:23.898 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:50:32.669 [main] INFO  com.cgm.internship.springDemo.service.PantsServiceImpl - Setter injection used.
+2018-08-22 20:50:32.792 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:50:32.802 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:51:17.128 [main] INFO  com.cgm.internship.springDemo.service.PantsServiceImpl - Setter injection used.
+2018-08-22 20:51:17.209 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:51:17.209 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:55:18.637 [main] INFO  com.cgm.internship.springDemo.service.PantsServiceImpl - Setter injection used.
+2018-08-22 20:55:18.769 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:55:18.780 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.

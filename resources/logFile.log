@@ -1,0 +1,3 @@
+2018-08-22 20:53:58.594 [main] INFO  com.cgm.internship.springDemo.service.PantsServiceImpl - Setter injection used.
+2018-08-22 20:53:58.695 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
+2018-08-22 20:53:58.695 [main] INFO  com.cgm.internship.springDemo.service.TshirtServiceImpl - Constructor injection used.
